@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.4,
-          "height": 0.8,
-          "width": 0.8
+          "drill": 0.3,
+          "height": 0.5,
+          "width": 0.9
         },
         "silk_line_width": 0.15,
         "silk_text_italic": true,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -111,14 +111,13 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "solder_mask_clearance": 0.0,
+        "solder_mask_min_width": 0.0
       },
       "track_widths": [
         0.0,
-        0.2,
-        0.3,
-        0.4,
-        0.5
+        0.2
       ],
       "via_dimensions": [
         {
@@ -126,7 +125,11 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
+          "diameter": 0.4,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.4,
           "drill": 0.3
         }
       ],
@@ -344,7 +347,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "TheBrutzlers_Lib"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
