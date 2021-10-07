@@ -51,6 +51,7 @@
       23,
       24,
       25,
+      26,
       27,
       28,
       29,
@@ -59,15 +60,13 @@
       33,
       34,
       35,
-      36,
-      37,
-      38
+      36
     ],
-    "visible_layers": "7fffff0_7ffffff9",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ESP31.kicad_prl",
+    "filename": "ESP31_V2.kicad_prl",
     "version": 3
   },
   "project": {
