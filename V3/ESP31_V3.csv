@@ -1,0 +1,16 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"J8,J5,J10,J7,J18,J9,J6,J12,J19,J13,J15,J17,J14,J8,J3,J4,J11,J9,J1,J16,J2";"CON_1x01";21;"Conn_01x01";;;
+2;"C2,C1,C4";"C_0603_1608Metric";3;"100n";;;
+3;"REF**";"jlc_tooling";1;"jlc_tooling";;;
+4;"REF**";"mousebite";1;"mousebite";;;
+5;",,,,,,";"";7;"";;;
+6;"U1";"UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm";1;"WL2810";;;
+7;"C3";"C_0603_1608Metric";1;"10µ";;;
+8;"U2";"QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm";1;"ESP32-PICO-D4";;;
+9;"AE1";"Texas_SWRA117D_2.4GHz_Left";1;"Antenna_Shield";;;
+10;"R1";"R_0603_1608Metric";1;"10K";;;
+11;"SW1,SW2";"microswitch";2;"SW_Push";;;
+12;"D1";"LED_Cree-PLCC4_2x2mm_CW";1;"WS2812B_Geaendertes_Symbol";;;
+13;"SM3";"Symbol_kurzschlussblog";1;"SYM_Arrow45_Tiny";;;
+14;"J20";"PinHeader_2x04_P2.54mm_Vertical";1;"Conn_02x04_Odd_Even";;;
+15;"JP1";"SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm";1;"SolderJumper_3_Bridged12";;;

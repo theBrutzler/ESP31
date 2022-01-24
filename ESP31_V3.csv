@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+"Antenna_Shield","AE1","RF_Antenna:Texas_SWRA117D_2.4GHz_Left",""
+"100n","C1,C2,C4","Capacitor_SMD:C_0603_1608Metric","C282519"
+"10µ","C3","Capacitor_SMD:C_0603_1608Metric","C85713"
+"WS2812B_Geaendertes_Symbol","D1","LED_SMD:LED_Cree-PLCC4_2x2mm_CW","C965556"
+"Conn_01x01","J1,J2,J3,J4,J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15,J16,J17,J18,J19","Eigene:CON_1x01",""
+"Conn_02x04_Odd_Even","J20","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical",""
+"SolderJumper_3_Bridged12","JP1","Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm",""
+"10K","R1","Resistor_SMD:R_0603_1608Metric","C73809"
+"SW_Push","SW1,SW2","TheBrutzlers_Lib:microswitch","C100056"
+"WL2810","U1","Package_DFN_QFN:UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm","C506118"
+"ESP32-PICO-D4","U2","Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm",""

@@ -1,4 +1,4 @@
-19281085005850544
+19289279619811468
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81844,6 +81844,13 @@ test point THT pad
 1
 1
 TheBrutzlers_Lib
+12POL_OLED_SOLDER
+
+
+0
+12
+12
+TheBrutzlers_Lib
 Edge_Connection
 
 
@@ -81893,6 +81900,20 @@ Symbol_kurzschlussblog_20mm
 0
 0
 TheBrutzlers_Lib
+USB-A-POWER
+
+
+0
+9
+5
+TheBrutzlers_Lib
+USB-C-POWER
+
+
+0
+10
+7
+TheBrutzlers_Lib
 approved_theBrutzler
 
 
@@ -81908,6 +81929,13 @@ bluetooth_6mm
 0
 TheBrutzlers_Lib
 bluetooth_13_6mm
+
+
+0
+0
+0
+TheBrutzlers_Lib
+fladdervogel
 
 
 0
@@ -83320,3 +83348,10 @@ varistor SIOV
 0
 2
 2
+tarzan
+12POL_OLED_SOLDER
+
+
+0
+12
+12
