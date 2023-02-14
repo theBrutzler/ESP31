@@ -1,0 +1,16 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"_12, _11, _10, _9, _8, _7, _6, _5, _4, _3, _2, ",,12,,
+AE1,Texas_SWRA117D_2.4GHz_Left,1,Antenna_Shield,
+C1,0603,1,100n,C282519
+C2,0603,1,100n,C282519
+C3,0603,1,10µ,C85713
+C4,0603,1,100n,C282519
+D1,LED_Cree-PLCC4_2x2mm_CW,1,WS2812B_Geaendertes_Symbol,C965556
+"J1, J10, J11, J12, J13, J14, J15, J16, J17, J18, J19, J2, J3, J4, J5, J6, J7, J8_2, J8, J9_2, J9",CON_1x01,21,Conn_01x01,
+J20,PinHeader_2x04_P2.54mm_Vertical,1,Conn_02x04_Odd_Even,
+"JP1, JP2",SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm,2,SolderJumper_3_Bridged12,
+R1,0603,1,10K,C73809
+SM3,Symbol_kurzschlussblog,1,SYM_Arrow45_Tiny,
+"SW1, SW2",microswitch,2,SW_Push,C482003
+U1,DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack,1,MIC5528,C622490
+U2,QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm,1,ESP32-PICO-D4, C193707 
