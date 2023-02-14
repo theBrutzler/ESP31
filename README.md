@@ -9,4 +9,4 @@ I created a board, that could fit an ESP32 on a ESP01 standard pinout. The defau
 
 This is the NEW 5V Version but first open the RTFM.png ;)
 
-![Image 3](https://github.com/theBrutzler/ESP31/blob/main/V3_3D_Model_RayTrace.PNG)
+![Image 3](https://github.com/theBrutzler/ESP31/blob/main/V4/ESP31-01_V4/V4_purple.png)
